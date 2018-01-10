@@ -1,13 +1,11 @@
 
-=======
+
 Program
 =======
 
 Visualizer is a program which takes real-time input from ASIO audio drivers
 and produces a visual representation of the audio.
 
-
-===========
 Compilation
 ===========
 
@@ -15,8 +13,6 @@ The program was developed and compiled using Visual Studio 2015. Project
 files have been provided, but no makefile. All non-standard dependencies
 have been included.
 
-
-=====
 Files
 =====
 
